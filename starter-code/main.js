@@ -10,7 +10,7 @@ var cardFour = "queen";
 	alert("You found a match!")
 } else {
 	alert ("Sorry, try again.")
-}*/ 
+}*/
 
 var gameBoard = document.getElementById('game-board');
 
